@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Gabe-o
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I’m Gabriel Olivotto
+Currently enrolled in my 3rd year of Software Engineering at Western University
 
-<!---
-Gabe-o/Gabe-o is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+LinkedIn:
+https://www.linkedin.com/in/gabriel-olivotto-5821ba22b/
+
+School Github:
+https://github.com/golivott
